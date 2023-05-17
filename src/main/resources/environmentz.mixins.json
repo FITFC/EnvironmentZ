@@ -11,27 +11,18 @@
     "BrewingRecipeRegistryMixin",
     "ServerPlayerEntityMixin",
     "PlayerManagerMixin",
-    "CampfireBlockEntityMixin",
-    "AbstractFurnaceBlockEntityMixin",
-    "LavaCauldronBlockMixin",
     "PowderSnowBlockMixin",
-    "MagmaBlockMixin",
-    "LavaFluidMixin",
-    "FireBlockMixin",
-    "SoulFireBlockMixin",
-    "AbstractFireBlockMixin",
-    "WallStandingBlockItemMixin",
-    "BucketItemMixin",
-    "access.EntityAccessor",
-    "compat.OriginCommandMixin",
-    "compat.PlayerOriginComponentMixin"
+    "SpawnLocatingMixin",
+    "access.EntityAccessor"
   ],
   "client": [
     "client.InGameOverlayRendererMixin",
     "client.InGameHudMixin",
     "client.HeadFeatureRendererMixin",
     "client.PlayerEntityRendererMixin",
-    "client.GameRendererMixin"
+    "client.GameRendererMixin",
+    "client.ItemRendererMixin",
+    "client.ArmorFeatureRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1

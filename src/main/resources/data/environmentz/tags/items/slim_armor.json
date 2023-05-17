@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "environmentz:wanderer_helmet",
+        "environmentz:wanderer_chestplate",
+        "environmentz:wanderer_leggings",
+        "environmentz:wanderer_boots"
+    ]
+}

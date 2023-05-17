@@ -1,0 +1,40 @@
+{
+    "environmentz:ice_pack": {
+        "damage": 1,
+        "temperature": -10,
+        "heat_protection": 2
+    },
+    "minecraft:powder_snow_bucket": {
+        "temperature": -4
+    },
+    "minecraft:ice": {
+        "temperature": -3
+    },
+    "minecraft:packed_ice": {
+        "temperature": -3
+    },
+    "minecraft:blue_ice": {
+        "temperature": -3
+    },
+    "minecraft:snow_block": {
+        "temperature": -2
+    },
+    "minecraft:snow": {
+        "temperature": -1
+    },
+    "minecraft:snowball": {
+        "temperature": -1
+    },
+    "environmentz:wanderer_helmet": {
+        "temperature": -1
+    },
+    "environmentz:wanderer_chestplate": {
+        "temperature": -1
+    },
+    "environmentz:wanderer_leggings": {
+        "temperature": -1
+    },
+    "environmentz:wanderer_boots": {
+        "temperature": -1
+    }
+}
